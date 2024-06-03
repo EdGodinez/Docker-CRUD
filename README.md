@@ -1,3 +1,4 @@
+
 # Docker-Crud
 
 Docker-Crud es un proyecto que demuestra cómo construir y desplegar una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) utilizando Node.js, Express, MongoDB y GraphQL, todo dentro de contenedores Docker. Este proyecto utiliza Docker Compose para orquestar los servicios y simplificar el despliegue.
@@ -72,16 +73,15 @@ Para acceder a la interfaz de GraphQL, abre `http://localhost:4000/graphql`.
 ```
 Docker-Crud/
 ├── client/
-│   └── index.html
+│   ├── img/
+│   ├── index.html
+│   ├── script.js
+│   └── style.css
 ├── server/
-│   ├── app.js
-│   ├── schema.graphql
-│   ├── resolvers.js
-│   ├── models/
-│   │   └── user.js
-│   └── .env
+│   └── app.js
 ├── docker-compose.yml
 ├── Dockerfile
+├── package.json
 └── README.md
 ```
 
