@@ -1,10 +1,12 @@
-¡Claro! Aquí tienes un ejemplo de un README para tu proyecto "Docker-Crud":
-
----
-
 # Docker-Crud
 
 Docker-Crud es un proyecto que demuestra cómo construir y desplegar una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) utilizando Node.js, Express, MongoDB y GraphQL, todo dentro de contenedores Docker. Este proyecto utiliza Docker Compose para orquestar los servicios y simplificar el despliegue.
+
+## Integrantes del equipo:
+- Eduardo Godinez Santana
+- Cesar Eduardo Atempa Basilio
+- José Armando Moras Moras
+- Daniela Carvajal García
 
 ## Contenidos
 
